@@ -1,10 +1,18 @@
-# task2yukti
+# Flutter API- Fetch the data from internet 
 
 A new Flutter project.
+Nowadays, most applications heavily rely on fetching information from the servers through the internet.
+In Flutter, such services are provided by the http package.
 
-## Getting Started
+## Steps to do
 
-This project is a starting point for a Flutter application.
+To fetch data from the internet follow the below steps:
+
+- Import the http package
+- Make a network request using the http package
+- Convert the response into custom Dart object
+- Display the data in a suitable format
+
 
 A few resources to get you started if this is your first Flutter project:
 
